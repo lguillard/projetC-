@@ -11,6 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "première modification";
+	cout << "première modification" << endl;
+	cout << "une deuxième modification";
 	return 0;
 }
